@@ -1,4 +1,4 @@
-# 👋 Hola, soy KanGamerEZ (Samuel)
+# 👋 Hola, soy Kanz (Samuel)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Lead%20Developer-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
