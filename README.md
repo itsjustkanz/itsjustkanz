@@ -46,7 +46,7 @@ Desarrollador enfocado en la creación de ecosistemas digitales robustos y gesti
 ### 📬 Contacto
 ¿Interesado en colaborar o conocer más sobre Xaneez Labs?
 * **Discord:** [Comunidad Oficial](https://discord.gg/64afGhdunT)
-* **GitHub:** [@KanGamerEZ](https://github.com/KanGamerEZ)
+* **GitHub:** [@ItsJustKanz](https://github.com/itsjustkanz)
 * **Organización:** [@Xaneez Labs](https://github.com/XaneezLabs)
 
 ---
