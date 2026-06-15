@@ -26,7 +26,7 @@ Desarrollador enfocado en la creación de ecosistemas digitales robustos y gesti
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-ruby-y045fdnira.vercel.app/api?username=itsjustkanz&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&title_color=a151ff&icon_color=a151ff" />
-  <img width="43.5%" src="https://github-readme-stats-eight-ruby-y045fdnira.vercel.app/api/top-langs/?username=KanGamerEZ&layout=compact&theme=midnight-purple&hide_border=true&title_color=a151ff" />
+  <img width="43.5%" src="https://github-readme-stats-eight-ruby-y045fdnira.vercel.app/api/top-langs/?username=itsjustkanz&layout=compact&theme=midnight-purple&hide_border=true&title_color=a151ff" />
 </p>
 
 ---
